@@ -1,0 +1,14 @@
+.banner-section {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin: 20px 0;
+}
+
+.banner-image {
+    width: 100%;
+    max-width: 700px;   /* Maximum size on large screens */
+    height: auto;
+    display: block;
+    border-radius: 12px;
+}
